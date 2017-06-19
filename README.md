@@ -3,7 +3,7 @@ Simple drop down component written in Swift 3
 
 ## Demo
 
-![gif demo](http://www.giphy.com/gifs/3o7btTeAPZkr8shZkY)
+![gif demo](https://media.giphy.com/media/3o7btTeAPZkr8shZkY/giphy.gif)
 
 ## Installation
 
